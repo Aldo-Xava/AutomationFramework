@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="90b73121-2743-4df3-847d-995ac2ad69b8" />
+    <option name="openSessionIds">
+      <list>
+        <option value="90b73121-2743-4df3-847d-995ac2ad69b8" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="90b73121-2743-4df3-847d-995ac2ad69b8" value="/sessions/c82f1ca0-e253-4e12-9ec4-6e311d3b6b88" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="90b73121-2743-4df3-847d-995ac2ad69b8" value="why if i ran mvn test in terminal, only one test c" />
+      </map>
+    </option>
+  </component>
+</project>
